@@ -1,6 +1,6 @@
 # React.js-Assessment-project
-  React.js 
-                        [Assessment Project- Building an Event Finder App in React]
+
+[Assessment Project- Building an Event Finder App in React]
 
 • Project description-
 You are a web developer at a company called FindMyMovies. 
