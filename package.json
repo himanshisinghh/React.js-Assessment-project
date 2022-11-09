@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-redux-toastr": "^7.6.10",
+    "yarn": "^1.22.19"
+  }
+}
